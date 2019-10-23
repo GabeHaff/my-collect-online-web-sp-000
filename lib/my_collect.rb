@@ -1,3 +1,3 @@
-def collect(collection)
+def my_collect(array)
 i=0 
-while collection.length < i 
+while array.length < i 
